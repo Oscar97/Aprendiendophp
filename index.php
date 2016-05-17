@@ -17,7 +17,7 @@ and open the template in the editor.
             /*comnetario*/
             for ($i=0;$i<10;$i++)
             {
-                echo"Linea Numero: ".$i. "<br>";
+                echo"Linea Numero:gfdrt ".$i. "<br>";
             }
             
         ?>
